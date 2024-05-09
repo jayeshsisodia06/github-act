@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>this is first</h1>
+    <h1>welcome to cicd github action</h1>
 </body>
 
 </html>
