@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>welcome to cicd github action</h1>
+    <h1>welcome to cicd github action pipeline</h1>
 </body>
 
 </html>
